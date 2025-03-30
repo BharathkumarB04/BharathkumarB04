@@ -6,7 +6,7 @@
 
 <h1> Social links </h1>
 <p align="left">
-  <a href="https://www.linkedin.com/in/bharath-kumar-a6331b2a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/bharath-kumar-b-a6331b2a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  
