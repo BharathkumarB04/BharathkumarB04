@@ -24,7 +24,7 @@
 
 <h1>  📊 GitHub Stats  </h1>
 
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathkumarB04&show_icons=true&theme=radical)
+![Bharath Kumar's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BharathkumarB04&theme=radical) 
 
 ### Top Languages 👨‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathkumarB04&layout=compact&theme=radical)
