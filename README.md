@@ -34,6 +34,6 @@
 
 
 <h1> 🎯 Fun Fact  </h1>
-🔥 I love solving tech challenges & building cool stuff! 
-🛠️ If program works , don't touch it....
+🔥 I love solving tech challenges & building cool stuff! <br>
+🛠️ If program works , don't touch it....  <br>
 ⭐️ **Feel free to connect!** 🚀  
