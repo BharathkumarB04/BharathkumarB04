@@ -1,7 +1,7 @@
-<h1>👋 Hello , I'm Bharath Kumar ! </h1> 
+<h1> Hello , I'm Bharath Kumar ! </h1> 
 
-🔹 Passionate about **Python, Web Development & AI** 🤖  
-🔹 Love working on **Open Source & Side Projects** 🚀  
+🔹 Passionate about Python, Web Development & AI  
+🔹 Love working on Open Source & Side Projects   
 🔹 I love to learn new things
 
 <h1> Social links </h1>
@@ -36,4 +36,4 @@
 <h1> 🎯 Fun Fact  </h1>
 🔥 I love solving tech challenges & building cool stuff! <br>
 🛠️ If program works , don't touch it....  <br>
-⭐️ **Feel free to connect!** 🚀  
+⭐️ Feel free to connect! 🚀  
