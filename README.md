@@ -12,6 +12,8 @@
 ### 📊 GitHub Stats  
 ![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharathkumarB04&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathkumarB04&layout=compact&theme=radical)  
+![3D Contributions](https://github.com/BharathkumarB04/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg)
+
 
 ### 🎯 Fun Fact  
 🔥 **I love solving tech challenges & building cool stuff!**  
