@@ -23,8 +23,15 @@
 </p>
 
 <h1>  📊 GitHub Stats  </h1>
-![Bharath Kumar's GitHub Stats] (https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BharathkumarB04&theme=github_dark) 
-![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=BharathkumarB04&layout=compact&theme=radical)  
+
+![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathkumarB04&show_icons=true&theme=radical)
+
+### Top Languages 👨‍💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathkumarB04&layout=compact&theme=radical)
+
+### GitHub Streak 🔥
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BharathkumarB04&theme=radical)
+
 
 <h1> 🎯 Fun Fact  </h1>
 🔥 **I love solving tech challenges & building cool stuff!**  
