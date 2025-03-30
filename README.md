@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hey there, I'm Bharath!  
 
-<!--
-**BharathkumarB04/BharathkumarB04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about **Python, Web Development & AI** 🤖  
+🔹 Building **PeFA (Personal Finance Assistant) & Resume Builder** 💼  
+🔹 Love working on **Open Source & Side Projects** 🚀  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+### 🎯 Fun Fact  
+🔥 **I love solving tech challenges & building cool stuff!**  
+
+---
+⭐️ **Feel free to connect!** 🚀  
