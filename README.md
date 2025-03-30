@@ -10,8 +10,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 ### 📊 GitHub Stats  
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharathkumarB04&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathkumarB04&layout=compact&theme=radical)  
 
 ### 🎯 Fun Fact  
 🔥 **I love solving tech challenges & building cool stuff!**  
