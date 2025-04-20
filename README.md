@@ -24,7 +24,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Render_logo.svg" width="40"/>
+![Render](https://img.shields.io/badge/Render-3f3f3f?style=for-the-badge&logo=render&logoColor=white)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
