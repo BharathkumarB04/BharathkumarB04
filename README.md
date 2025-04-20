@@ -1,5 +1,5 @@
 <h1> Hello , I'm Bharath Kumar ! </h1> 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 🔹 Passionate about Python, Web Development & AI  
 🔹 Love working on Open Source & Side Projects   
 🔹 I love to learn new things
