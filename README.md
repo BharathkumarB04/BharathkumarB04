@@ -1,7 +1,7 @@
-# Hello , I'm Bharath Kumar ! 
+# Hi there , I'm Bharath Kumar ! 
 🔹 Passionate about Python, Web Development & AI  
 🔹 Love working on Open Source & Side Projects   
-🔹 I love to learn new things
+🔹 I love to learn new technologies 
 
 <h1> Social links </h1>
 <p align="left">
@@ -19,6 +19,13 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+# IDE & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Render_logo.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 <h1>  📊 GitHub Stats  </h1>
