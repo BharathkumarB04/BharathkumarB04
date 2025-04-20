@@ -1,5 +1,4 @@
-<h1> Hello , I'm Bharath Kumar ! </h1> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+# Hello , I'm Bharath Kumar ! 
 🔹 Passionate about Python, Web Development & AI  
 🔹 Love working on Open Source & Side Projects   
 🔹 I love to learn new things
@@ -24,7 +23,7 @@
 
 <h1>  📊 GitHub Stats  </h1>
 
-![Bharath Kumar's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BharathkumarB04&theme=radical) 
+![Bharath Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharathkumarB04&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### Top Languages 👨‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathkumarB04&layout=compact&theme=radical)
