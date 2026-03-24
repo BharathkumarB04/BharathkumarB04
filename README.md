@@ -1,5 +1,5 @@
 # Hi there , I'm Bharath Kumar ! 
-🔹 Passionate about Python, Web Development & AI  
+🔹 Passionate about PHP, Python, Web Development & AI  
 🔹 Love working on Open Source & Side Projects   
 🔹 I love to learn new technologies 
 
@@ -13,6 +13,9 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -28,11 +31,7 @@
 </p>
 
 ### 📊 GitHub Stats 
-
 ![My GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BharathkumarB04&theme=radical)
-
-### Top Languages 👨‍💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathkumarB04&layout=compact&theme=radical)
 
 ### GitHub Streak 🔥
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BharathkumarB04&theme=radical)
